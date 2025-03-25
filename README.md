@@ -22,3 +22,7 @@ Should Contain Notes on the Following
 
 **Agents**
 - GAN, Markov Decision
+
+- —
+Pre-requisite
+- Matrix Mutiplication, Fourier Analysis
