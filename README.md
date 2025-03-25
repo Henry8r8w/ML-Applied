@@ -6,6 +6,10 @@ Should Contain Notes on the Following
   
 **Computer Visions**
 - OpenCV, YOLO, Detectron
+
+**Edge AI & Embedded Systems**
+- Nvidia Jetson
+- TensorRT
   
 **Causal Inference**
 - Average Treatment Effect, Nearest Neighbor
