@@ -19,3 +19,6 @@ Should Contain Notes on the Following
 - Random Forest, Bagging, Boosting, XGBoost
 
 **Language Processing**
+
+**Agents**
+- GAN, Markov Decision
