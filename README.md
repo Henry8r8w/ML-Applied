@@ -1,5 +1,8 @@
-# ML
-Should Contain Notes on the Following
+# ML - Applied
+
+**Regression Techniques**
+- Linear, Ridge / Lasso, Logistics, Elastic Net
+- Random Forest, Bagging, Boosting, XGBoost
 
 **Deep Learning**
 - Pytroch, Q-Learning, Tensorflow (certification), Deep Q Networking, Policy Gradient Methods
@@ -14,17 +17,8 @@ Should Contain Notes on the Following
 **Causal Inference**
 - Average Treatment Effect, Nearest Neighbor
   
-**Regression Techniques**
-- Linear, Ridge / Lasso, Logistics, Elastic Net
-- Random Forest, Bagging, Boosting, XGBoost
-
 **Language Processing**
 - LangChain
 
 **Agents**
 - GAN, Markov Decision
-
----
-
-Pre-requisite
-- Matrix Mutiplication, Fourier Analysis
