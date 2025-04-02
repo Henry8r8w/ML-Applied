@@ -1,4 +1,4 @@
-# ML - Applied
+# Machine Learning - Applied
 
 **Regression Techniques**
 - Linear, Ridge / Lasso, Logistics, Elastic Net
