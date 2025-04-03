@@ -55,8 +55,3 @@ print(scores.mean())
 - `scoring`: performance metric to use ('neg_mean_absolute_error', 'accuracy', etc ...)
 - `n_jobs`: number of parallel jobs (set to -1 to use all processors)
 
-## Important Considerations
-### Computational Cost
-- Higher number of folds means more computation time
-- Common choices: 5-fold or 10-fold CV
-- Leave-one-out CV (n folds for n samples) is computationally expensive
