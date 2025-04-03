@@ -1,4 +1,4 @@
-## ML is an Iteraitve Process
+## ML is an Exhaustive Process
 Therefore, there are benefits of making your ML worflow faster and reproducible for testing, validation, and debug
 
 The benefits of pipelining your ML workflow 
