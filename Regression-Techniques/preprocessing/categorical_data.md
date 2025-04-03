@@ -33,7 +33,8 @@ print(dict(zip(object_cols, object_nunique))) # dict(zip()) is an intrestin pair
 high_cardinality_count = sum(1 for v in object_nunique.values() if v > 10)
 ```
 Note:
-- Cardinality is defined as the variation within a single categorical label. Cardinality less than 10 are typically suitable enough for trianing use
+- Cardinality is defined as the variation within a single categorical label.
+- Cardinality less than 10 are typically suitable enough for trianing use
 ## Approach 1: Drop Categorical Variables
 ### Implementation
 ```python
@@ -106,8 +107,8 @@ OH_X_valid.columns = OH_X_valid.columns.astype(str)
 
 ```
 Notes:
-- `handle_unknown='ignore'`: Prevents errors when validation data contains categories not in training data
-- `sparse=False`: Returns a numpy array instead of a sparse matrix
+- `handle_unknown='ignore'`: prevents errors when validation data contains categories not in training data
+- `sparse=False`: returns a numpy array instead of a sparse matrix
 
 ### Effectiveness and Considerations
 - Generally the best approach for categorical variables
