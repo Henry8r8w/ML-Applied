@@ -23,3 +23,7 @@
 
 **Agents**
 - GAN, Markov Decision
+
+Note: 
+- The notes materials are sourced variously on internet.
+- They are not my original work and should only consider a summarization of concepts that I've come acrossed and got interested in 
