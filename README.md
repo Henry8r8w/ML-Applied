@@ -1,4 +1,4 @@
-# Machine Learning - Applied CHeatSheet and Notes
+# Machine Learning - Applied; CheatSheet and Notes
 
 **Regression Techniques**
 - **PreProcessing**: Missing Data, Categorical Data
