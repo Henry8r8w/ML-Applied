@@ -3,23 +3,24 @@
 **Regression Techniques**
 - **PreProcessing**: Missing Data, Categorical Data
 - **Good Practices**: Pipelining, Cross-Validation
-- **Tools**: Linear, Ridge / Lasso, Logistics, Elastic Net,Huber, Random Forest, XGBoost, Stacking, Perceptron, Kernel Ridge, ARIMA,  LSTM, Prophert (FB)
+- **Tools**: Linear, Ridge / Lasso, Logistics, Elastic Net,Huber, Random Forest, XGBoost, Stacking,, Kernel Ridge, ARIMA,  LSTM, Prophert (FB)
 
 **Deep Learning**
-- Pytroch, Q-Learning, Tensorflow, Deep Q Networking, Policy Gradient Methods
+- Methods: Perceptron,  Deep Q Networking, Policy Gradient Methods, RL
+- framework: Pytroch, Tensorflow, JAX
   
 **Computer Visions**
-- OpenCV, YOLO, Detectron
+- Framework: OpenCV, YOLO, Detectron
 
 **Edge AI & Embedded Systems**
-- Nvidia Jetson
-- TensorRT
+- HardwaRE Nvidia Jetson
+- Framework: TensorRT
   
 **Causal Inference**
-- Average Treatment Effect, Nearest Neighbor
+- Average Treatment Effect, Nearest Neighbor, Propensity Score Matching (PSM), IV: Two-Stage Least Squares (2SLS), DiD, Meta-learners (T-Learner, S-Learner, X-Learner)
   
 **Language Processing**
 - LangChain
 
 **Agents**
-- GAN, Markov Decision
+- **Tools**: Generative Adversarial Networks (GANs), Markov Decision Processes (MDPs)
