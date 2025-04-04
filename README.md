@@ -13,7 +13,7 @@
 - Framework: OpenCV, YOLO, Detectron
 
 **Edge AI & Embedded Systems**
-- HardwaRE Nvidia Jetson
+- HardwarE Nvidia Jetson
 - Framework: TensorRT
   
 **Causal Inference**
