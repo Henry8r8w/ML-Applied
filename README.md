@@ -3,7 +3,7 @@
 **Regression Techniques**
 - **PreProcessing**: Missing Data, Categorical Data
 - **Good Practices**: Pipelining, Cross-Validation
-- **Tools**: Linear, Ridge / Lasso, Logistics, Elastic Net,Huber, Random Forest_XGBoost, Ensemble Learning(Boosting, Bagging, Stacking),  Kernel Ridge, ARIMA,  LSTM, Prophert (FB)
+- **Tools**: Linear, Ridge / Lasso, Logistics, Elastic Net,Huber, Random Forest-XGBoost, Ensemble Learning (Boosting, Bagging, Stacking), Kernel Ridge, ARIMA, LSTM, Prophert (FB)
 
 **Deep Learning**
 - Methods: Perceptron,  Deep Q Networking, Policy Gradient Methods, RL
