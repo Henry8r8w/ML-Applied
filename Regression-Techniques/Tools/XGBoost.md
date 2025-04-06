@@ -15,7 +15,7 @@
 Note: 
 - The "gradient" in gradient boosting refers to gradient descent
 
-## Implementation with XGBoost
+## Implementation of XGBoost with library
 ```python
 from xgboost import XGBRegressor
 from sklearn.metrics import mean_absolute_error
