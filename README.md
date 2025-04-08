@@ -8,12 +8,13 @@
   - **Tree-Based**: Random Forest, XGBoost  
   - **Ensemble Learning**: Boosting, Bagging, Stacking  
   - **Time Series**: ARIMA, LSTM, Prophet (FB)  
-  - **Classification+**: Logistic Regression, Random Forest, XGBoost  
+  - **Classification+**: Logistic Regression, Random Forest*, XGBoost*
+Note: * denotes dpulicate, + denotes intersection
 
 ### `Deep Learning`
 - **Methods**:
     - **Neural Networks** (Logistic Regression $\rightarrow$ softmax, Gradient Descent $\rightarrow$ SGD, Adam)
-      - concepts:forward/backprop, activation functions
+      - Concepts: forward/backprop, activation functions
       - Toolkit: CNNs, RNNs, LSTMs, GRUs, Transformers
     - **Renforcement Learning**
       - Toolkit: Q-Learning, Deep Q Network, Policy Gradient Methods (REINFORCE, PPO, A3C)
