@@ -8,7 +8,7 @@
   - **Tree-Based**: Random Forest, XGBoost  
   - **Ensemble Learning**: Boosting, Bagging, Stacking  
   - **Time Series**: ARIMA, LSTM, Prophet (FB)  
-  - **Also Used in Classification**: Logistic Regression, Random Forest, XGBoost  
+  - **Classification+**: Logistic Regression, Random Forest, XGBoost  
 
 ### `Deep Learning`
 - **Methods**:
