@@ -2,7 +2,7 @@
 **Goal**: To output `y`, a boolean (e.g, the binary) value classfication result, given a feature  `x`
 - $x \rightarrow y,$ where  $x \in \mathbb{R}^{n_x}$ & $y \in {0,1}$
 
-We define a training set with m samples as:
+We define a `training set` with m samples as:
 
 $$
 \{(x^{(1)}, y^{(1)}), \dots, (x^{(m)}, y^{(m)})\}
