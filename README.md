@@ -6,8 +6,8 @@
 - **Tools**:
   - **Linear Models**: Linear, Ridge, Lasso, Elastic Net, Huber, Kernel Ridge  
   - **Tree-Based**: Random Forest, XGBoost  
-  - **Ensemble Learning**: Boosting · Bagging · Stacking  
-  - **Time Series**: ARIMA · LSTM · Prophet (FB)  
+  - **Ensemble Learning**: Boosting, Bagging, Stacking  
+  - **Time Series**: ARIMA, LSTM, Prophet (FB)  
   - **Also Used in Classification**: Logistic Regression, Random Forest, XGBoost  
 
 ### `Deep Learning`
