@@ -14,8 +14,8 @@ Notes: + denotes intersection, * denotes duplicates
 
 ### `Deep Learning`
 - **Methods**:
-    - **Neural Networks** (Logistic Regression $\rightarrow$ softmax, Gradient Descent $\rightarrow$ SGD, Adam)
-      - concepts:forward/backprop, activation functions
+    - **Neural Networks** (logistic regression $\rightarrow$ Softmax, gradient descent $\rightarrow$ SGD, Adam)
+      - Concepts: Forward/Backprop, Activation Functions
       - Toolkit: CNNs, RNNs, LSTMs, GRUs, Transformers
     - **Renforcement Learning**
       - Toolkit: Q-Learning, Deep Q Network, Policy Gradient Methods (REINFORCE, PPO, A3C)
