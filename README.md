@@ -4,7 +4,7 @@
 - **PreProcessing**: Missing Data, Categorical Data
 - **Good Practices**: Pipelining, Cross-Validation
 - **Tools**:
-  - **Linear Models**: Linear, Ridge, Lasso, Elastic Net, Huber, Kernel Ridge  
+  - **Linear Models**: Linear, Elastic Net (Ridge, Lasso), Huber, Kernel Ridge  
   - **Tree-Based**: Random Forest, XGBoost  
   - **Ensemble Learning**: Boosting, Bagging, Stacking  
   - **Time Series**: ARIMA, LSTM, Prophet (FB)  
