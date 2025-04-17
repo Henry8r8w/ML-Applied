@@ -49,5 +49,8 @@ Notes: + denotes intersection, * denotes duplicates
 # Adjacent Topics to Machine Learning 
 
 ### `Signal Processing`
-
+- **Music Synthesis notebook**: signal plotting, music playing, envloping through ADSR, smoothing through overlapping
 ### `Probability`
+- **Porbability Primer**
+- **Random Outcomes**: binomial coefficients, pascal rule, binomail polynomial
+- **Random Variables**: discrete rv and continuos rv
